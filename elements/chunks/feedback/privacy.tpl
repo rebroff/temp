@@ -1,0 +1,1 @@
+<div class="popup__privacy">{'privacy' | option}</div>
